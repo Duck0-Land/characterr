@@ -1,0 +1,14 @@
+*{
+    margin: 5;
+    padding: 5;
+}
+
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.butt{
+ font-size: 100px;
+}
